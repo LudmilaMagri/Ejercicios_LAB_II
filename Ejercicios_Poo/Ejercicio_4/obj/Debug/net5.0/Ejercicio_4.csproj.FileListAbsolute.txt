@@ -1,0 +1,5 @@
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\Ejercicio_4\obj\Debug\net5.0\Ejercicio_4.csproj.AssemblyReference.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\Ejercicio_4\obj\Debug\net5.0\Ejercicio_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\Ejercicio_4\obj\Debug\net5.0\Ejercicio_4.AssemblyInfoInputs.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\Ejercicio_4\obj\Debug\net5.0\Ejercicio_4.AssemblyInfo.cs
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\Ejercicio_4\obj\Debug\net5.0\Ejercicio_4.csproj.CoreCompileInputs.cache

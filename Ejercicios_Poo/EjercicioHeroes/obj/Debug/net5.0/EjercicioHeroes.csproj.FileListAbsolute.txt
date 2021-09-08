@@ -1,0 +1,16 @@
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\bin\Debug\net5.0\EjercicioHeroes.exe
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\bin\Debug\net5.0\EjercicioHeroes.deps.json
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\bin\Debug\net5.0\EjercicioHeroes.runtimeconfig.json
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\bin\Debug\net5.0\EjercicioHeroes.runtimeconfig.dev.json
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\bin\Debug\net5.0\EjercicioHeroes.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\bin\Debug\net5.0\ref\EjercicioHeroes.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\bin\Debug\net5.0\EjercicioHeroes.pdb
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.AssemblyInfoInputs.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.AssemblyInfo.cs
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\ref\EjercicioHeroes.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.pdb
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.genruntimeconfig.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\Clases_LAB_II-main\Ejercicios_Poo\EjercicioHeroes\obj\Debug\net5.0\EjercicioHeroes.csproj.AssemblyReference.cache

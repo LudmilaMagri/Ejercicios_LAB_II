@@ -1,0 +1,16 @@
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.exe
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.deps.json
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.runtimeconfig.json
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.runtimeconfig.dev.json
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.dll
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\bin\Debug\net5.0\ref\Ejercicio_3.dll
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.pdb
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.csproj.AssemblyReference.cache
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.AssemblyInfoInputs.cache
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.AssemblyInfo.cs
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.dll
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\ref\Ejercicio_3.dll
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.pdb
+C:\Users\Lali\source\repos\Ejercicios_Poo\Ejercicios_Poo\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.genruntimeconfig.cache
